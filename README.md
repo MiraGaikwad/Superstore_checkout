@@ -2,7 +2,7 @@
 
 ## Current Work – 
 ###	inventory.py 
-a.	This class is to manage the inventory Items 
+a.	This class is to manage the inventory Items. 
 b.	This inventory will be loaded during each transaction hit for checkout
 
 ###	basketcheckout.py
