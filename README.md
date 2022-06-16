@@ -3,10 +3,12 @@
 ## Current Work – 
 ###	inventory.py 
 a.	This class is to manage the inventory Items. 
+
 b.	This inventory will be loaded during each transaction hit for checkout
 
 ###	basketcheckout.py
 a.	This class access the user’s cart and calculate total payable amount and prints the receipt.
+
 b.	It can accept the items in any order and calculate total amounts including promotional offer.
 
 ###	main.py
