@@ -1,0 +1,9 @@
+bar_code,name,price,promo_offer1,quantity1,promo_price1,promo_offer2,quantity2,promo_price2
+1111,A,10,Buy2_get£5_off,2,15,None,1,10
+2222,B,20,Buy3_get£10_off,3,50,Buy2_get£10%_off,2,36
+3333,C,30,None,1,30,Buy1_get£10%_off,1,27
+4444,D,40,Buy2_get£20_off,2,60,None,1,60
+5555,E,80,Buy2_get£5_off,2,75,None,1,10
+6666,F,60,Buy3_get£10_off,3,170,Buy2_get£10%_off,2,54
+7777,G,40,None,1,30,Buy1_get£10%_off,1,36
+8888,H,40,Buy2_get£20_off,2,20,None,1,40
