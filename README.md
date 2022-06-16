@@ -1,6 +1,6 @@
 # Superstore_checkout
 
-Current Work – 
+## Current Work – 
 1.	inventory.py 
 a.	This class is to manage the inventory Items 
 b.	This inventory will be loaded during each transaction hit for checkout
@@ -15,7 +15,7 @@ a.	This is main class where above both classes are imported to process the store
 4.	Inventory.csv
 a.	This file contains the Inventory item which is accessed during each transaction.
 
-Test Result – 
+## Test Result – 
 I have tested multiple scenarios and One of the sample test scenarios is as below where Items are entered in any sequences
  
  ![image](https://user-images.githubusercontent.com/84037638/174051098-4c75bf64-86dc-4244-bc02-dc9d40aaa267.png)
@@ -27,7 +27,7 @@ Receipt for these Items looks as below -
  
 ![image](https://user-images.githubusercontent.com/84037638/174051159-9280ceec-b598-49f6-bb0c-6b4b721393cb.png)
 
-Future Work – 
+## Future Work – 
 	All the Inventory can be store in oracle database and it can be access in python program instead of reading from csv files.
 	Currently added 2 promotional offers to each item but it can be changed to add more promotional offers.
 
