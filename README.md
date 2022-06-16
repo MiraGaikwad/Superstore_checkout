@@ -1,18 +1,18 @@
 # Superstore_checkout
 
 ## Current Work – 
-1.	inventory.py 
+###	inventory.py 
 a.	This class is to manage the inventory Items 
 b.	This inventory will be loaded during each transaction hit for checkout
 
-2.	basketcheckout.py
+###	basketcheckout.py
 a.	This class access the user’s cart and calculate total payable amount and prints the receipt.
 b.	It can accept the items in any order and calculate total amounts including promotional offer.
 
-3.	main.py
+###	main.py
 a.	This is main class where above both classes are imported to process the store check Out for users.
 
-4.	Inventory.csv
+###	Inventory.csv
 a.	This file contains the Inventory item which is accessed during each transaction.
 
 ## Test Result – 
