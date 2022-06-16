@@ -28,6 +28,6 @@ Receipt for these Items looks as below -
 ![image](https://user-images.githubusercontent.com/84037638/174051159-9280ceec-b598-49f6-bb0c-6b4b721393cb.png)
 
 ## Future Work – 
-	All the Inventory can be store in oracle database and it can be access in python program instead of reading from csv files.
-	Currently added 2 promotional offers to each item but it can be changed to add more promotional offers.
+1.	All the Inventory can be store in oracle database and it can be access in python program instead of reading from csv files.
+2.	Currently added 2 promotional offers to each item but it can be changed to add more promotional offers.
 
